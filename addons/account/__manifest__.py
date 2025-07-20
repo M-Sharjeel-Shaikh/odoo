@@ -143,3 +143,5 @@ You could use this simplified accounting in case you work with an (external) acc
     },
     'license': 'LGPL-3',
 }
+
+# Testing
